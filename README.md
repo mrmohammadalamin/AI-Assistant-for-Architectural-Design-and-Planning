@@ -109,7 +109,7 @@ Here are some screenshots of the application:
 
 ![Project Creation Screen](screen.png)
 
-![Cross Section Drawing](https://drive.google.com/file/d/1rB_HUJUN_7yWT8_7AitEqa96FhWGR650/view?usp=sharing)
+![Cross Section Drawing](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/cross_section_drawing.png)
 
 
 
