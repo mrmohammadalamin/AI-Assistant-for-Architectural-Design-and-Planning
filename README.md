@@ -109,7 +109,30 @@ Here are some screenshots of the application:
 
 ![Project Creation Screen](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/c5.png?raw=true)
 
+![Project Creation Screen](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/c1.png?raw=true)
+
+![Project Creation Screen](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/c3.png?raw=true)
+
+
+![Project Creation Screen](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/c4.png?raw=true)
+
+![Project Creation Screen](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/c5.png?raw=true)
+
+Roof Plan Drawing
+![roof_plan_drawing](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/roof_plan_drawing.png?raw=true)
+
+Structural Drawing
+![Structural Drawing](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/structural_drawing.png?raw=true)
+
+
+Cross Section Drawing
 ![Cross Section Drawing](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/cross_section_drawing.png)
+
+Elevation Drawing
+![Elevation Drawing](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/elevation_drawing.png?raw=true)
+
+Demolition Plan
+![Demolition Plan](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/demolition_plan.png?raw=true)
 
 
 
