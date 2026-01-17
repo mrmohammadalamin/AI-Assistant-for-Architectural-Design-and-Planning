@@ -107,7 +107,7 @@ The application provides a rich user experience, allowing users to create and ma
 
 Here are some screenshots of the application:
 
-![Project Creation Screen](screen.png)
+![Project Creation Screen](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/c5.png?raw=true)
 
 ![Cross Section Drawing](https://github.com/mrmohammadalamin/AI-Assistant-for-Architectural-Design-and-Planning/blob/main/cross_section_drawing.png)
 
