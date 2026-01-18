@@ -140,7 +140,6 @@ Demolition Plan
 ![Project Creation Screen](https://github.com/mrmohammadalamin/architect-multi-agent/blob/15e599c455d90eb34305d95f749b76f500b90a42/backend/project_store/4223f937-3d9a-4d26-ba84-409329dce304/stage_10/2025-09-09%20091650.png)
 
 
-*(You can add more screenshots here by replacing the placeholder above with the actual path to your screenshot file.)*
 
 ### Video Demo
 
@@ -148,4 +147,3 @@ Here is a video demo of the application:
 [![Construction AI Demo](https://img.youtube.com/vi/MibL8O5Ff_4/0.jpg)](https://www.youtube.com/watch?v=D6FGRH4mH68)
 
 
-*(Replace `your-video-id` with the ID of your YouTube video.)*
